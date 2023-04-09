@@ -11,4 +11,17 @@ public class Sunday1 {
 		System.out.println(1+2);
 	}
 
+	
+	public static void divid(int a, int b) {
+		
+		System.out.println(a/b);
+		
+	}
+	
+	
+	public static void getInfo() {
+		
+		System.out.println("MAC");
+	}
+	
 }
